@@ -1,5 +1,7 @@
 # PIGLATIN_RS
 
+![Rust](https://github.com/gauthamkrishna9991/piglatin_rs/workflows/Rust/badge.svg?branch=master)
+
 ## Introduction
 
 This is a small pig-latin program made with Rust Programming Language.
